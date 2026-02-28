@@ -1,21 +1,108 @@
-# 💫 About Me:
-I'm a Computer Science and Engineering student at Manipal University Jaipur with a strong interest in building intelligent, real-world solutions. I’ve gained practical experience in AI and machine learning through industry-level projects, where I’ve learned to turn complex data into meaningful outcomes.<br><br>In addition to my work in AI/ML, I’ve also spent time developing web applications, which has given me a solid foundation in building functional and user-friendly systems. These experiences have helped me appreciate the full spectrum of creating and deploying tech solutions—from idea to execution.<br><br>Lately, I’ve been growing more curious about cybersecurity and the role it plays in building resilient systems. With a mindset focused on continuous learning and long-term impact, I’m excited to keep exploring new areas in tech and contribute to work that drives meaningful change.
+# 🟠 Sarthak Routray
 
+<h3 align="center">Building Intelligent Systems. Shipping Real-World Impact.</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sarthakroutray1809) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sarthak-routray-020583323) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarthak.routray2006@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://stats-green-eight.vercel.app/api?username=sarthakroutray&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://stats-green-eight.vercel.app/?user=sarthakroutray&theme=midnight-purple&hide_border=false)<br/>
-![](https://stats-green-eight.vercel.app/api/top-langs/?username=sarthakroutray&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align="center">
+🎓 Computer Science & Engineering @ Manipal University Jaipur <br/>
+🤖 AI/ML • 🌐 Full-Stack • 🔐 Cybersecurity <br/><br/>
+<a href="https://sarthakroutray.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sarthakroutray&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+I’m a Computer Science student focused on building intelligent, scalable systems that solve real-world problems.
+
+I started with web development — crafting responsive and user-friendly applications — and evolved into AI/ML, where I’ve worked on projects that transform complex data into meaningful outcomes.
+
+Now, I’m exploring cybersecurity and resilient architecture to ensure the systems I build are not only smart — but secure and production-ready.
+
+> Technology should not just work — it should scale, adapt, and create impact.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/sarthak-routray-020583323">
+<img src="https://img.shields.io/badge/LinkedIn-FF6B00?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://instagram.com/sarthakroutray1809">
+<img src="https://img.shields.io/badge/Instagram-FF6B00?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="mailto:sarthak.routray2006@gmail.com">
+<img src="https://img.shields.io/badge/Email-FF6B00?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### 🟠 Languages
+![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=FF6B00)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=FF6B00)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=FF6B00)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=FF6B00)
+![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=FF6B00)
+
+---
+
+### 🟠 Web Development
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=FF6B00)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwind-css&logoColor=FF6B00)
+![NodeJS](https://img.shields.io/badge/NodeJS-111111?style=for-the-badge&logo=node.js&logoColor=FF6B00)
+![Express.js](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=FF6B00)
+![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=FF6B00)
+![Three.js](https://img.shields.io/badge/Three.js-111111?style=for-the-badge&logo=three.js&logoColor=FF6B00)
+
+---
+
+### 🟠 Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=FF6B00)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=FF6B00)
+
+---
+
+### 🟠 AI / ML
+![NumPy](https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy&logoColor=FF6B00)
+![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=FF6B00)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-111111?style=for-the-badge&logo=scikit-learn&logoColor=FF6B00)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow&logoColor=FF6B00)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-111111?style=for-the-badge&logo=matplotlib&logoColor=FF6B00)
+![SciPy](https://img.shields.io/badge/SciPy-111111?style=for-the-badge&logo=scipy&logoColor=FF6B00)
+
+---
+
+### 🟠 Tools & Deployment
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=FF6B00)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FF6B00)
+![NPM](https://img.shields.io/badge/NPM-111111?style=for-the-badge&logo=npm&logoColor=FF6B00)
+![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=FF6B00)
+![Render](https://img.shields.io/badge/Render-111111?style=for-the-badge&logo=render&logoColor=FF6B00)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://stats-green-eight.vercel.app/api?username=sarthakroutray&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://stats-green-eight.vercel.app/api/top-langs/?username=sarthakroutray&theme=midnight-purple&hide_border=true&layout=compact)
+
+---
+
+## 🟠 Current Focus
+
+- Production-grade AI systems  
+- Secure backend architecture  
+- Intelligent automation tools  
+- Scalable full-stack applications  
+
+---
+
+<p align="center">
+🔥 Continuous Learning • Systems Thinking • Long-Term Impact
+</p>
