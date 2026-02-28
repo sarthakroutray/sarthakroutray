@@ -1,10 +1,10 @@
-# 🟠 Sarthak Routray
+# Sarthak Routray
 
 <h3 align="center">Building Intelligent Systems. Shipping Real-World Impact.</h3>
 
 <p align="center">
-🎓 Computer Science & Engineering @ Manipal University Jaipur <br/>
-🤖 AI/ML • 🌐 Full-Stack • 🔐 Cybersecurity <br/><br/>
+ Computer Science & Engineering @ Manipal University Jaipur <br/>
+ AI/ML •  Full-Stack • Cybersecurity <br/><br/>
 <a href="https://sarthakroutray.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
@@ -12,7 +12,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I’m a Computer Science student focused on building intelligent, scalable systems that solve real-world problems.
 
@@ -24,7 +24,7 @@ Now, I’m exploring cybersecurity and resilient architecture to ensure the syst
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/sarthak-routray-020583323">
@@ -40,50 +40,50 @@ Now, I’m exploring cybersecurity and resilient architecture to ensure the syst
 
 ---
 
-# 💻 Tech Stack
+---
 
-### 🟠 Languages
-![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=FF6B00)
-![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=FF6B00)
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=FF6B00)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=FF6B00)
-![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=FF6B00)
+#  Tech Stack
+
+###  Languages
+<p>
+<img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=FF6B00"/>
+<img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=FF6B00"/>
+<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=FF6B00"/>
+<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=FF6B00"/>
+<img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=FF6B00"/>
+</p>
 
 ---
 
-### 🟠 Web Development
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=FF6B00)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwind-css&logoColor=FF6B00)
-![NodeJS](https://img.shields.io/badge/NodeJS-111111?style=for-the-badge&logo=node.js&logoColor=FF6B00)
-![Express.js](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=FF6B00)
-![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=FF6B00)
-![Three.js](https://img.shields.io/badge/Three.js-111111?style=for-the-badge&logo=three.js&logoColor=FF6B00)
+###  Web Development
+<p>
+<img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=FF6B00"/>
+<img src="https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwind-css&logoColor=FF6B00"/>
+<img src="https://img.shields.io/badge/NodeJS-111111?style=for-the-badge&logo=node.js&logoColor=FF6B00"/>
+<img src="https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=FF6B00"/>
+<img src="https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=FF6B00"/>
+<img src="https://img.shields.io/badge/Three.js-111111?style=for-the-badge&logo=three.js&logoColor=FF6B00"/>
+</p>
 
 ---
 
-### 🟠 Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=FF6B00)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=FF6B00)
+###  Databases
+<p>
+<img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=FF6B00"/>
+<img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=FF6B00"/>
+</p>
 
 ---
 
-### 🟠 AI / ML
-![NumPy](https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy&logoColor=FF6B00)
-![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=FF6B00)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-111111?style=for-the-badge&logo=scikit-learn&logoColor=FF6B00)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow&logoColor=FF6B00)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-111111?style=for-the-badge&logo=matplotlib&logoColor=FF6B00)
-![SciPy](https://img.shields.io/badge/SciPy-111111?style=for-the-badge&logo=scipy&logoColor=FF6B00)
-
----
-
-### 🟠 Tools & Deployment
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=FF6B00)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FF6B00)
-![NPM](https://img.shields.io/badge/NPM-111111?style=for-the-badge&logo=npm&logoColor=FF6B00)
-![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=FF6B00)
-![Render](https://img.shields.io/badge/Render-111111?style=for-the-badge&logo=render&logoColor=FF6B00)
-
+###  AI / ML
+<p>
+<img src="https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy&logoColor=FF6B00"/>
+<img src="https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=FF6B00"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-111111?style=for-the-badge&logo=scikit-learn&logoColor=FF6B00"/>
+<img src="https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow&logoColor=FF6B00"/>
+<img src="https://img.shields.io/badge/Matplotlib-111111?style=for-the-badge&logo=matplotlib&logoColor=FF6B00"/>
+<img src="https://img.shields.io/badge/SciPy-111111?style=for-the-badge&logo=scipy&logoColor=FF6B00"/>
+</p>
 ---
 
 # 📊 GitHub Stats
@@ -94,7 +94,7 @@ Now, I’m exploring cybersecurity and resilient architecture to ensure the syst
 
 ---
 
-## 🟠 Current Focus
+##  Current Focus
 
 - Production-grade AI systems  
 - Secure backend architecture  
@@ -104,5 +104,5 @@ Now, I’m exploring cybersecurity and resilient architecture to ensure the syst
 ---
 
 <p align="center">
-🔥 Continuous Learning • Systems Thinking • Long-Term Impact
+ Continuous Learning • Systems Thinking • Long-Term Impact
 </p>
